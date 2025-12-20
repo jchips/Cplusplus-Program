@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{a9ed69f0-3472-4ccb-a538-ba9abe1111d4}</ProjectGuid>
-    <RootNamespace>AirgeadBanking</RootNamespace>
+    <ProjectGuid>{cc7b830f-70f9-4ca9-97d0-cae66d7f80eb}</ProjectGuid>
+    <RootNamespace>CornerGrocer</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,11 +127,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Bank.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="StoreMenu.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Bank.h" />
+    <ClInclude Include="StoreMenu.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="CS210_Project_Three_Input_file.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

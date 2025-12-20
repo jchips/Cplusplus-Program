@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CornerGrocer", "CornerGrocer\CornerGrocer.vcxproj", "{CC7B830F-70F9-4CA9-97D0-CAE66D7F80EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC7B830F-70F9-4CA9-97D0-CAE66D7F80EB}.Debug|x64.ActiveCfg = Debug|x64
+		{CC7B830F-70F9-4CA9-97D0-CAE66D7F80EB}.Debug|x64.Build.0 = Debug|x64
+		{CC7B830F-70F9-4CA9-97D0-CAE66D7F80EB}.Debug|x86.ActiveCfg = Debug|Win32
+		{CC7B830F-70F9-4CA9-97D0-CAE66D7F80EB}.Debug|x86.Build.0 = Debug|Win32
+		{CC7B830F-70F9-4CA9-97D0-CAE66D7F80EB}.Release|x64.ActiveCfg = Release|x64
+		{CC7B830F-70F9-4CA9-97D0-CAE66D7F80EB}.Release|x64.Build.0 = Release|x64
+		{CC7B830F-70F9-4CA9-97D0-CAE66D7F80EB}.Release|x86.ActiveCfg = Release|Win32
+		{CC7B830F-70F9-4CA9-97D0-CAE66D7F80EB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AB9DB31-52E1-456B-8259-7767C3543731}
+	EndGlobalSection
+EndGlobal
